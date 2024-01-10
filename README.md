@@ -2,7 +2,7 @@
 
 This Python script serves as a simple password guessing algorithm utilizing a brute-force approach to match a user-input password.
 
-<h2>Instructions:</h2><br><br>
+<h2>Instructions:</h2><br>
 
 <h4>Requirements:</h4><br>
 
